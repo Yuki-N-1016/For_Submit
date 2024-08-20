@@ -40,4 +40,7 @@ a {
   li {
     font-size: 10px;
   }
+  body {
+    bakcground-size: 200%
+}
 }
