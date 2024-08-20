@@ -29,3 +29,9 @@ a {
   color: #808080;
   text-decoration: none;
 }
+
+@media screen and (max-width: 680px) {
+  .file {
+    margin-left: 4px;
+  }
+}
