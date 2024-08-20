@@ -32,8 +32,12 @@ a {
   text-decoration: none;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 680px) {
   .file {
     margin-left: 4px;
+    font-size: 10px;
+  }
+  li {
+    font-size: 10px;
   }
 }
